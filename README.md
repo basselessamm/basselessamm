@@ -40,13 +40,13 @@ I am a **Full Stack Developer** with a primary focus on **Back-End Engineering**
 
 ---
 
-### 📊 GitHub Insights
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basselessamm&show_icons=true&theme=radical" alt="Bassel's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basselessamm&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+### ⚡ Technical Proficiency
+<div align="center">
+  <img src="https://img.shields.io/badge/Backend-Expert-success?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/Clean_Code-Practitioner-blue?style=for-the-badge&logo=clean-code" />
+  <img src="https://img.shields.io/badge/Security-Focused-red?style=for-the-badge&logo=securityscorecard" />
+  <img src="https://img.shields.io/badge/Scalability-Architect-orange?style=for-the-badge&logo=google-cloud" />
+</div>
 
 ---
 
