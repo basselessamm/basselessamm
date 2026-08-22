@@ -1,52 +1,46 @@
 # 👋 Hello, I'm Bassel Essam!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5B7B6F&center=true&vCenter=true&width=500&lines=Backend+Architect;Senior+PHP+Developer;Full-Stack+Engineer;SaaS+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5B7B6F&center=true&vCenter=true&width=600&lines=Backend+Architect;Senior+PHP+Developer;Laravel+Specialist;Full-Stack+Engineer;ITI+Graduate" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🚀 About Me
-I am a **Backend-First Software Engineer** specializing in architecting complex, scalable, and secure server-side ecosystems. My expertise lies in building **Multi-Tenant SaaS platforms**, high-performance **E-commerce engines**, and robust **POS (Point of Sale) systems**. I am dedicated to mastering the core of software engineering to deliver high-impact, reliable digital products.
-
-- 🏗️ Architecting **Multi-Tenant SaaS** and **E-commerce** solutions with Laravel.
-- 🔐 Expert in **RBAC**, Data Isolation, and Secure Financial Transactions.
-- 🛠️ Building high-performance, offline-capable **POS systems** with Python & SQLite.
-- ⚡ Focused on performance optimization, clean code, and system reliability.
+### 🚀 Professional Summary
+I am a **Full Stack Developer** with a primary focus on **Back-End Engineering** and **Laravel**. As a graduate of the **ITI Full Stack PHP Track**, I specialize in architecting scalable, enterprise-grade systems using **Clean Architecture** and **Domain-Driven Design (DDD)**. I am passionate about writing clean, maintainable code guided by **SOLID** principles and robust security practices.
 
 ---
 
-### 🛠️ Tech Stack (The Core)
+### 🛠️ Technical Expertise
 
-<div align="center">
-  <!-- Backend Core -->
-  <img src="https://img.shields.io/badge/PHP-8.5-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-13-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-8.4-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3.11+-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <br>
-  <!-- Frontend & Tools -->
-  <img src="https://img.shields.io/badge/React-19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+| Category | Technologies |
+| :--- | :--- |
+| **Architecture** | Clean Architecture, DDD, SOLID, MVC, RBAC |
+| **Back-End** | PHP 8.5, Laravel 13, RESTful APIs, Node.js |
+| **Front-End** | JavaScript, Angular, Vue.js, Tailwind CSS 4, Bootstrap |
+| **Database** | MySQL 8.4, SQLite, NoSQL (Basics) |
+| **Tools & DevOps** | Git, GitHub, Docker, Web Security, Deployment |
 
 ---
 
-### 🌟 Featured "Heavyweight" Projects
+### 🌟 Featured Enterprise Projects
 
-| Project | Role | Tech Stack | Highlights |
+| Project | Role | Tech Stack | Key Highlights |
 | :--- | :--- | :--- | :--- |
-| [**💪 GymSaaS (Multi-Tenant)**](https://github.com/basselessamm/system-super_gym-laravel) | **Architect & Lead** | Laravel 12, MySQL, RBAC | Data Isolation, Subscription Engine, Financial Reports. |
-| [**🛒 E-commerce Engine**](https://github.com/basselessamm/ecommerce) | **Backend Lead** | Laravel, MySQL, REST API | Scalable architecture, Secure checkout, Order management. |
-| [**📟 MotoPart POS (Casher)**](https://github.com/basselessamm/motopart-pos) | **Lead Developer** | Python, SQLite, CustomTkinter | Offline-first, Inventory tracking, RTL support, Atomic transactions. |
-| [**📍 Kharagny Backend**](https://github.com/basselessamm/kharagny-backend) | **Backend Dev** | Laravel, REST API, MySQL | Scalable API for location-based discovery. |
+| [**🛒 Premium E-Commerce**](https://github.com/basselessamm/ecommerce) | **Backend Lead** | Laravel, Tailwind | DDD, Clean Architecture, 4-Level RBAC, SOLID. |
+| [**💪 GymSaaS (Multi-Tenant)**](https://github.com/basselessamm/system-super_gym-laravel) | **Architect** | Laravel, MySQL | Automated Subscriptions, Attendance, Payroll. |
+| [**📟 MotoPart POS**](https://github.com/basselessamm/motopart-pos) | **Lead Dev** | Python, SQLite | High-performance, Offline-first, Financial Reports. |
+| [**🔐 Secure Auth System**](https://github.com/basselessamm/project) | **Security Lead** | PHP, MySQL | OTP Verification, Secure Login, Audit Logging. |
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Education & Training
+- **Information Technology Institute (ITI)** | *Intensive Training Program - Full Stack PHP Track* (2025)
+- **Bachelor of Business Information Systems (BIS)** | (2024)
+
+---
+
+### 📊 GitHub Insights
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=basselessamm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bassel's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basselessamm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
@@ -56,11 +50,14 @@ I am a **Backend-First Software Engineer** specializing in architecting complex,
 
 ### 📫 Connect with me
 <div align="center">
-  <a href="https://github.com/basselessamm">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://linkedin.com/in/bassel-essam-5a66b6252">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:baselessam550@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 
 <p align="center">
-  <i>"Mastering the core, simplifying the complex."</i>
+  <i>"Engineering logic into scalable impact."</i>
 </p>
