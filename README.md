@@ -29,7 +29,7 @@ I am a **Full Stack Developer** with a primary focus on **Back-End Engineering**
 | :--- | :--- | :--- | :--- |
 | [**🛒 Premium E-Commerce**](https://github.com/basselessamm/ecommerce) | **Backend Lead** | Laravel, Tailwind | DDD, Clean Architecture, 4-Level RBAC, SOLID. |
 | [**💪 GymSaaS (Multi-Tenant)**](https://github.com/basselessamm/system-super_gym-laravel) | **Architect** | Laravel, MySQL | Automated Subscriptions, Attendance, Payroll. |
-| [**📟 Casher System**](https://github.com/basselessamm/casher) | **Lead Dev** | Laravel, MySQL | Professional Cashier High-performance, Offline-first, Financial Reports. Sales Management System. |
+| [**📟 Casher System**](https://github.com/basselessamm/casher) | **Lead Dev** | Laravel, MySQL | Professional Cashier & Sales Management System. |
 | [**🔐 Secure Auth System**](https://github.com/basselessamm/project) | **Security Lead** | PHP, MySQL | OTP Verification, Secure Login, Audit Logging. |
 
 ---
@@ -41,10 +41,12 @@ I am a **Full Stack Developer** with a primary focus on **Back-End Engineering**
 ---
 
 ### 📊 GitHub Insights
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=basselessamm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Bassel's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basselessamm&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=basselessamm&show_icons=true&theme=radical" alt="Bassel's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basselessamm&layout=compact&theme=radical" alt="Top Languages" />
+</p>
 
 ---
 
