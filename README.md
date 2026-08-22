@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Bassel Samm!
+# 👋 Hello, I'm Bassel Essam!
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5B7B6F&center=true&vCenter=true&width=500&lines=Backend+Architect;Senior+PHP+Developer;Full-Stack+Engineer;Flutter+Enthusiast" alt="Typing SVG" />
