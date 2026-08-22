@@ -1,18 +1,18 @@
 # 👋 Hello, I'm Bassel Essam!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5B7B6F&center=true&vCenter=true&width=500&lines=Backend+Architect;Senior+PHP+Developer;Full-Stack+Engineer;Flutter+Specialist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=5B7B6F&center=true&vCenter=true&width=500&lines=Backend+Architect;Senior+PHP+Developer;Full-Stack+Engineer;SaaS+Specialist" alt="Typing SVG" />
 </div>
 
 ---
 
 ### 🚀 About Me
-I am a **Backend-First Software Engineer** specializing in architecting complex, scalable, and secure server-side ecosystems. My expertise lies in building **Multi-Tenant SaaS platforms**, high-performance APIs, and robust database structures. While my heart belongs to the **Backend**, I am also a proficient **Flutter Specialist**, enabling me to deliver complete, high-impact digital products.
+I am a **Backend-First Software Engineer** specializing in architecting complex, scalable, and secure server-side ecosystems. My expertise lies in building **Multi-Tenant SaaS platforms**, high-performance **E-commerce engines**, and robust **POS (Point of Sale) systems**. I am dedicated to mastering the core of software engineering to deliver high-impact, reliable digital products.
 
-- 🏗️ Architecting **Multi-Tenant SaaS** solutions with Laravel.
-- 🔐 Expert in **RBAC**, Data Isolation, and Secure Authentication.
-- 📱 Building premium mobile experiences with **Flutter** & **Riverpod**.
-- ⚡ Focused on performance optimization and clean, maintainable code.
+- 🏗️ Architecting **Multi-Tenant SaaS** and **E-commerce** solutions with Laravel.
+- 🔐 Expert in **RBAC**, Data Isolation, and Secure Financial Transactions.
+- 🛠️ Building high-performance, offline-capable **POS systems** with Python & SQLite.
+- ⚡ Focused on performance optimization, clean code, and system reliability.
 
 ---
 
@@ -23,14 +23,14 @@ I am a **Backend-First Software Engineer** specializing in architecting complex,
   <img src="https://img.shields.io/badge/PHP-8.2+-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
   <img src="https://img.shields.io/badge/Laravel-12-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-8.0+-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3.11+-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
   <br>
-  <!-- Mobile & Frontend -->
-  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" />
+  <!-- Frontend & Tools -->
   <img src="https://img.shields.io/badge/React-19-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
 ---
@@ -40,9 +40,9 @@ I am a **Backend-First Software Engineer** specializing in architecting complex,
 | Project | Role | Tech Stack | Highlights |
 | :--- | :--- | :--- | :--- |
 | [**💪 GymSaaS (Multi-Tenant)**](https://github.com/basselessamm/system-super_gym-laravel) | **Architect & Lead** | Laravel 12, MySQL, RBAC | Data Isolation, Subscription Engine, Financial Reports. |
-| [**🌙 ATHR (أَثَر)**](https://github.com/basselessamm/athr) | **Full-Stack Lead** | Flutter, Riverpod, SQLite | Premium Mushaf, Offline-First, Threads of Return. |
+| [**🛒 E-commerce Engine**](https://github.com/basselessamm/ecommerce) | **Backend Lead** | Laravel, MySQL, REST API | Scalable architecture, Secure checkout, Order management. |
+| [**📟 MotoPart POS (Casher)**](https://github.com/basselessamm/motopart-pos) | **Lead Developer** | Python, SQLite, CustomTkinter | Offline-first, Inventory tracking, RTL support, Atomic transactions. |
 | [**📍 Kharagny Backend**](https://github.com/basselessamm/kharagny-backend) | **Backend Dev** | Laravel, REST API, MySQL | Scalable API for location-based discovery. |
-| [**🚗 Roadbook**](https://github.com/basselessamm/roadbook-showroom-experience) | **Frontend Dev** | React 19, TS, Tailwind 4 | Cinematic UI, 360° Car Viewer, Immersive UX. |
 
 ---
 
