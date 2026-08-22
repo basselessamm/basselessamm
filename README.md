@@ -29,7 +29,7 @@ I am a **Full Stack Developer** with a primary focus on **Back-End Engineering**
 | :--- | :--- | :--- | :--- |
 | [**🛒 Premium E-Commerce**](https://github.com/basselessamm/ecommerce) | **Backend Lead** | Laravel, Tailwind | DDD, Clean Architecture, 4-Level RBAC, SOLID. |
 | [**💪 GymSaaS (Multi-Tenant)**](https://github.com/basselessamm/system-super_gym-laravel) | **Architect** | Laravel, MySQL | Automated Subscriptions, Attendance, Payroll. |
-| [**📟 MotoPart POS**](https://github.com/basselessamm/motopart-pos) | **Lead Dev** | Python, SQLite | High-performance, Offline-first, Financial Reports. |
+| [**📟 Casher System**](https://github.com/basselessamm/casher) | **Lead Dev** | Laravel, MySQL | Professional Cashier High-performance, Offline-first, Financial Reports. Sales Management System. |
 | [**🔐 Secure Auth System**](https://github.com/basselessamm/project) | **Security Lead** | PHP, MySQL | OTP Verification, Secure Login, Audit Logging. |
 
 ---
